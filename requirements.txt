@@ -1,7 +1,4 @@
-streamlit
-pandas
-base64
-requests
-time
-nltk
-SentimentIntensityAnalyzer
+streamlit==1.20.0
+pandas==1.5.3
+requests==2.28.2
+nltk==3.7
